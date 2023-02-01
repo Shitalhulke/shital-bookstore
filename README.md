@@ -1,2 +1,0 @@
-# shital-bookstore
-sale books
